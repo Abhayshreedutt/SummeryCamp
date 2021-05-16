@@ -28,7 +28,7 @@ input{
     position: relative;
 }
 .logo img{
-    height: 80px;
+    height: 40px;
 }
 nav{
     display: flex;
